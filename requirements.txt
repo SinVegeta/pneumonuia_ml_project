@@ -2,7 +2,6 @@
 --index-url https://download.pytorch.org/whl/cpu
 
 # Core requirements based on your code
-torch==2.2.2+cpu
-torchvision==0.17.2+cpu
-streamlit==1.46.0
-Pillow>=10.0.0
+torch
+torchvision
+streamlit
